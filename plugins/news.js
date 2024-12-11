@@ -21,7 +21,7 @@ const API_ENDPOINT = "https://vajiraapi-089fa316ec80.herokuapp.com/news/lnw";
 
 async function sendNews(title, desc, date) {
     const message = `*${title}*\n\n${desc}\n\n${date}`;
-    await conn.sendMessage( jid , { text: message });  
+    await conn.sendMessage( 120363354095447928@g.us , { text: message });  
 }
  
 async function checkForNewsUpdates() {
