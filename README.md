@@ -25,13 +25,13 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
  ## DEPLOYMENT METHODS
 
 <p align="center">
-<a href='https://sunny-dorine-nadeen-md-v2-b14d00b7.koyeb.app/' target="_blank"><img alt='Pair Code 01' src='https://img.shields.io/badge/-Pair Code 01-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://genuine-cathrine-nadeen-md-session-id-bb8befea.koyeb.app/' target="_blank"><img alt='Pair Code 01' src='https://img.shields.io/badge/-Pair Code 01-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
 <a href='https://sunny-dorine-nadeen-md-v2-b14d00b7.koyeb.app/pair' target="_blank"><img alt='Pair Code 02' src='https://img.shields.io/badge/-Pair Code 02-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
-<a href='https://delighted-vitoria-nadeenmd-95fb6e2f.koyeb.app/' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Pair Code 02-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://sunny-dorine-nadeen-md-v2-b14d00b7.koyeb.app/' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Pair Code 03-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
   
 ### DEVELOPER:
 **GET In Touch with The Owner**
